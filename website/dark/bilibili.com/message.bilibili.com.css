@@ -1,0 +1,362 @@
+:root {
+    color: #cba !important;
+}
+
+body {
+    background: black !important;
+}
+
+a {
+    color: #cba !important;
+}
+
+.mini-header {
+    background: black !important;
+}
+
+.mini-header .right-entry .right-entry__outside .right-entry-icon {
+    color: #AAA !important;
+}
+
+.msg-notify {
+    background: #222 !important;
+}
+
+.msg-notify .content {
+    color: #AAA !important;
+}
+
+.msg-notify .detail {
+    color: #888 !important;
+}
+
+
+
+.bili-header .anime, .bili-header .game, .bili-header .manga {
+    background: #333 !important;
+}
+
+.bili-header .anime .title, .bili-header .anime .anime-list-item-title, .bili-header .manga-right-title {
+   color: #AAA !important;
+}
+
+.bili-header .manga-right-list-item-text {
+   color: #cba !important;
+}
+
+.bili-header .manga-right-list-item:hover {
+    background: #111 !important;
+}
+
+
+
+
+.mini-header .center-search-container .center-search__bar #nav-searchform {
+    background: #333 !important;
+}
+
+.bili-header .center-search-container .center-search__bar .nav-search-btn {
+    color: #888 !important;
+}
+
+ .center-search-container .center-search__bar #nav-searchform.is-focus, .bili-header .search-panel {
+    background: #333 !important;
+}
+
+.bili-header .search-panel {
+    color: #cba !important;
+    border: none !important;
+}
+
+.bili-header .trending-item.active, .bili-header .trending-item:hover, .bili-header .trending-item:focus {
+    background: #111 !important;
+}
+
+.bili-header .center-search-container .center-search__bar .nav-search-content .nav-search-input::placeholder {
+    color: #AAA !important;
+}
+
+.bili-header .center-search-container .center-search__bar #nav-searchform {
+    border: none !important;
+}
+
+
+
+div.router-view div.at div.card, div.router-view div.love div.card, div.router-view div.system div.card {
+    background: black !important;
+}
+
+div.router-view div.system div.top span.title {
+    color: #cba !important;
+}
+
+div.router-view div.system div.bottom {
+    color: #AAA !important;
+}
+
+
+
+div.space-right-bottom > div.card {
+    background: black !important;
+}
+
+div.space-right-bottom > div.card div.loading div.link-progress-tv {
+    background-color: black !important;
+}
+
+
+
+.v-popover-content {
+    background-color: #333 !important;
+    border: none !important;
+    color: #CCC !important;
+}
+
+.favorite-panel-popover__nav .tab-item {
+    color: #AAA !important;
+}
+
+.favorite-panel-popover__nav .tab-item--active {
+    background-color: #111 !important;
+}
+
+
+.bili-header .header-fav-card__info--title, .history-panel-popover .header-history-card__info--title {
+    color: #cba !important;
+}
+
+
+
+#link-message-container .divided-line {
+    border-top-color: #999 !important;
+}
+
+
+
+.bili-header .bili-header-channel-panel .channel-panel__column {
+    border-right-color: #666 !important;
+}
+
+.bili-header .bili-header-channel-panel .channel-panel__column:last-child {
+    border: none!important;
+}
+
+
+
+.up-item .up-name {
+    color: #AAA !important;
+}
+
+.all-in-one-article-title {
+    color: #AAA !important;
+}
+
+
+
+.mini-header .left-entry .mini-header__title, .mini-header .left-entry .entry-title, .mini-header .left-entry .default-entry, .mini-header .left-entry .loc-mc-box__text, .mini-header .left-entry .download-entry, .mini-header .left-entry .loc-entry {
+    color: #cba !important;
+}
+
+
+
+.bili-header .vip-panel-popover .panel-v2 {
+   background: #333 !important;
+   border: none !important;
+}
+
+
+
+.bili-header .avatar-panel-popover {
+   background: #333 !important;
+}
+
+
+
+.bili-header .avatar-panel-popover .coins-item .coin-item__num, .bili-header .avatar-panel-popover .counts-item .single-count-item .count-num {
+    color: #CBA !important;
+}
+
+.bili-header .avatar-panel-popover .counts-item .single-count-item:hover .count-text, .bili-header .avatar-panel-popover .counts-item .single-count-item:hover .count-num {
+   color: #00aeec !important;
+}
+
+.bili-header .avatar-panel-popover .links-item .single-link-item:hover {
+   background: #111 !important;
+}
+
+.bili-header .avatar-panel-popover .logout-item:hover {
+   background: #111 !important;
+}
+
+.bili-header .avatar-panel-popover .logout-item {
+    color: white !important;
+}
+
+
+
+.bili-header .message-entry-popover .message-inner-list__item:hover, .bili-header .bili-header-channel-panel .channel-panel__column .channel-panel__item:hover, .bili-header .header-dynamic-list-item:hover, .bili-header .header-fav-card:hover, .bili-header .header-history-video:hover, .bili-header .header-history-article:hover {
+    background-color: #111 !important;
+}
+
+.history-panel-popover .header-tabs-panel__content--date {
+    color: #AAA !important;
+}
+
+.dynamic-all .history-tip {
+    background-color: #555 !important;
+}
+
+.dynamic-all .split-line {
+   color: #CCC !important;
+}
+
+
+
+.side-bar .item a {
+   color: #999 !important;
+}
+
+.side-bar .item:hover, .side-bar .item a:hover, .side-bar .item.active, .side-bar .item.active a{
+   color: #2faee3!important;
+}
+
+
+
+.bili-header .upload-panel-popover .upload-item:hover {
+    background-color: #111 !important;
+}
+
+.bili-header .upload-panel-popover .upload-item .item-icon, .bili-header .upload-panel-popover .upload-item .item-title {
+   color: #cba !important;
+}
+
+
+
+@media screen and (min-width: 1200px) {
+    body > .container {
+        width: 1143px !important;
+    }
+
+    #link-message-container .container {
+        width: 1143px;
+    }
+}
+
+
+@media screen and (max-width: 1400px) {
+    body > .container {
+        margin: 64px 0 0 !important;
+    }
+}
+
+
+
+
+
+
+/* reply */
+
+
+
+.mini-type .nav-user-center .user-con .item .name, div.side-bar > div.title, .space-right .space-right-top .title, div.ar-recommend-item__info--title {
+    color: #cba !important;
+}
+
+.reply-item .name-field a {
+    color: #cba !important;
+}
+
+.reply-item .desc-field {
+    color: #999 !important;
+}
+
+.international-header .mini-type, .van-popover .mini-type, .space-right .space-right-top .title, div.reply div.card  {
+    background: black !important;
+}
+
+#message-navbar {
+    background: #333 !important;
+}
+
+div.space-left {
+    background-color: #111 !important;
+}
+
+div.space-right {
+    background-color: #222 !important;
+}
+
+div.line-2 {
+    color: #DDD !important;
+}
+
+div.msg-push-new {
+    background: #222 !important;
+}
+
+
+
+
+
+
+/* my message */
+
+
+
+.bili-im {
+    background: black !important;
+}
+
+.list-item.active {
+    background-color: #333 !important;
+}
+
+.list-item:hover {
+    background-color: #444 !important;
+}
+
+.bili-im .left {
+    border-right-color: #666 !important;
+}
+
+.bili-im .left .title {
+    border-bottom-color: #666 !important;
+    color: #AAA !important;
+}
+
+.right .message-list, .right .send-box {
+    background-color: black !important;
+}
+
+.list-item .name, .right .title {
+    color: #cba !important;
+}
+
+.static-popup, .pagination {
+    background-color: black !important;
+    color: #cba !important;
+}
+
+.emoji-list .emoji {
+    background-color: unset !important;
+}
+
+.emoji-cover.selected {
+    background-color: #555 !important;
+}
+
+.message {
+   color: #DDD !important;
+}
+
+.message .message-content {
+   background: #222 !important;
+}
+
+.message .message-content.is-me {
+    background: midnightblue !important;
+}
+
+.send-box .core-style {
+    color: white !important;
+}
